@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -93,3 +94,6 @@ Easily start your REST Web Services
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+=======
+# library-management
+>>>>>>> 4489dfbff4d4cd645096a60c752105831213db74
